@@ -132,8 +132,16 @@ header nav a.active{
 #video h3 {
 	margin-top: 0px;
 	padding-top: 0px;
-	font-size: 40px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	font-size: 30px;
 	text-shadow: 4px 4px 16px whitesmoke;
+}
+#video p{
+	padding-top: 0px;
+	margin-top: 0px;
+	font-size: 20px;
+	font-style: italic;
 }
 #portafolio {
 
@@ -158,7 +166,7 @@ header nav a.active{
 #portafolio .box p{
 	color: #666;
 	padding: 10px;
-	
+
 }
 
 #contacto{
